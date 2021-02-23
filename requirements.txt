@@ -1,0 +1,6 @@
+# 
+# You will need this libraries:
+Flask==1.1.2
+folium==0.12.1
+geopy==2.1.0
+requests==2.25.1
